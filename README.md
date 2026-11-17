@@ -33,6 +33,8 @@ Supporting Information: [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20
 
 ## What's the Risk?
 
+Sign-in rules set up quickly and never reviewed often leave loopholes, weak default settings, or outdated login methods, and all are easy targets that can be exploited. Ours were set up that way. Yesterday's sign-in log shows where those gaps are already in use.
+
 ## The Investigation
 
 1. x
