@@ -9,3 +9,43 @@ My manager writes:
 > Our sign-in rules were set up quickly and never revisited. Here's what we have today and a day of sign-in activity. I need to know which events worry you, and a better set of rules I can take to the IT director. Remember the front-desk staff at our clinics can't use their own phones.
 
 Supporting information:
+
+
+<BR>
+
+
+<table>
+<tr>
+<td>
+
+**🛡️ Decision**
+
+
+
+</td>
+</tr>
+</table>
+
+
+
+<BR>
+
+## What's the Risk?
+
+## The Investigation
+
+1. x
+
+2. x
+
+3. x
+
+4. x
+
+## What I Found
+
+## Decisions & Recommendations
+
+## Reflection & Next Steps
+
+## Explore the Investigation
