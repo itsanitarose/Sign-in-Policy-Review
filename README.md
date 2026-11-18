@@ -35,18 +35,18 @@ Supporting Information: [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20
 
 Sign-in rules set up quickly and never reviewed often leave loopholes, weak default settings, or outdated login methods, and all are easy targets that can be exploited. Ours were set up that way. Yesterday's sign-in log shows where those gaps are already in use.
 
-## The Investigation
-My investigation focused on four questions: vs I reviewed the sign-in activity and existing rules to identify security gaps, understand the problems staff were experiencing, and determine what needed to change.
-
 <BR>
 
-1. x
+## The Investigation
 
-2. x
+I checked yesterday's 15 sign-ins against the six rules we have now. Both are in [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md).
 
-3. x
+1. Which sign-in events need attention first?
+2. How should the sign-in policies be improved?
+3. How can front-desk staff sign in safely without personal phones?
+4. How can the new policies be introduced without disrupting access?
 
-4. x
+<br>
 
 ## What I Found
 
