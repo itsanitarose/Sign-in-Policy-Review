@@ -36,6 +36,9 @@ Supporting Information: [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20
 Sign-in rules set up quickly and never reviewed often leave loopholes, weak default settings, or outdated login methods, and all are easy targets that can be exploited. Ours were set up that way. Yesterday's sign-in log shows where those gaps are already in use.
 
 ## The Investigation
+My investigation focused on four questions: vs I reviewed the sign-in activity and existing rules to identify security gaps, understand the problems staff were experiencing, and determine what needed to change.
+
+<BR>
 
 1. x
 
