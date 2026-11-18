@@ -10,7 +10,7 @@ My manager writes:
 
 <BR>
 
-Supporting Information: [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md)
+Supporting Information: [sign-in log & current rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md)
 
 <BR>
 
