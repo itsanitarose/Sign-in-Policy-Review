@@ -41,7 +41,7 @@ Sign-in rules set up quickly and never reviewed often leave loopholes, weak defa
 
 ## The Investigation
 
-I checked yesterday's 15 sign-ins against the six rules we have now, both in [Sign-in Log & Current Rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), then worked through four questions:
+I checked yesterday's 15 sign-ins against the six rules we have now, both in [sign-in log & current rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), then worked through four questions:
 
 1. Which sign-in events need attention first?
 2. How should the sign-in policies be improved?
