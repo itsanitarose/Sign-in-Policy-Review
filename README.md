@@ -1,5 +1,8 @@
 
 # Sign-in Policy Review
+Reviewed 15 sign-in events against six existing policies to identify access risks, prioritise investigations, and recommend safer sign-in controls.
+
+<BR>
 
 ## 🎫 The Ticket
 It's 16 November 2026, my seventh week on the security team at Northwind Health. The company's sign-in rules were set up quickly and have never been revisited. This week's request is to review a day of sign-in activity and propose better rules without locking people out.
@@ -33,8 +36,7 @@ Supporting Information: [sign-in log & current rules](Documents/01.%20Sign-in%20
 
 ## What's the Risk?
 
-Sign-in rules set up quickly and never reviewed often leave loopholes, weak default settings, or outdated login methods, and all are easy targets that can be exploited. Ours were set up that way. Yesterday's sign-in log shows where those gaps are already in use.
-
+Sign-in rules set up quickly and never reviewed can leave security gaps, weak default settings, or outdated login methods that attackers could exploit. The risk is unauthorised access to sensitive information or administrator accounts.
 <BR>
 
 
