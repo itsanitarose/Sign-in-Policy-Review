@@ -41,7 +41,7 @@ Sign-in rules set up quickly and never reviewed often leave loopholes, weak defa
 
 ## The Investigation
 
-I checked yesterday's 15 sign-ins against the six rules we have now, both in [sign-in log & current rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), then worked through four questions:
+I checked yesterday's **15 sign-ins** against the **6 rules** we have now, both in [sign-in log & current rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), then worked through four questions:
 
 1. Which sign-in events need attention first?
 2. How should the sign-in policies be improved?
@@ -51,6 +51,20 @@ I checked yesterday's 15 sign-ins against the six rules we have now, both in [si
 <br>
 
 ## What I Found
+
+Five sign-ins to open, in this order.
+
+| Severity | Account | Risk |
+| --- | --- | --- |
+| 🔴 Critical | breakglass-02 | Emergency admin, no MFA, no alert. |
+| 🟠 High | s.park | Possible session theft. Austin, then Singapore nine minutes later. |
+| 🟠 High | j.chen | Finance mailbox over IMAP. MFA was impossible. |
+| 🟡 Medium | t.nguyen-admin | SMS on a personal laptop. The account is an admin. |
+| 🟡 Medium | v.santos | Partner VPN treated as identity. No MFA. |
+
+**Not incidents.** k.malik at HQ, trusted location, managed device. Clinic tablet, MFA timed out because staff cannot use personal phones.
+
+[02. Event Triage](Documents/02.%20Event%20Triage.md)
 
 ## Decisions & Recommendations
 
