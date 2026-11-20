@@ -47,7 +47,7 @@ I checked yesterday's **15 sign-ins** against the **6 rules** we have now, both 
 2. What should replace the current sign-in rules?
 3. How can clinic staff use MFA on shared tablets without personal phones, and what is the trade-off?
 4. How can we introduce the new policies without disrupting access?
-5. 
+
 <br>
 
 ## What I Found
