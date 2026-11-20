@@ -37,13 +37,16 @@ Supporting Information: [sign-in log & current rules](Documents/01.%20Sign-in%20
 ## What's the Risk?
 
 Sign-in rules set up quickly and never reviewed can leave security gaps, weak default settings, or outdated login methods that attackers could exploit. The risk is unauthorised access to sensitive information or administrator accounts.
+
 <BR>
 
 
 
 ## The Investigation
 
-I checked yesterday's **15 sign-ins** against the **6 rules** we have now, both in [sign-in log & current rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), then worked through four questions:
+
+I reviewed [15 sign-in events against six existing rules](Documents/01.%20Sign-in%20Log%20%26%20Current%20Rules.md), using four questions to guide my investigation:
+
 
 1. Which sign-in events need immediate investigation, and which are likely legitimate?
 2. What should replace the current sign-in rules?
@@ -54,7 +57,7 @@ I checked yesterday's **15 sign-ins** against the **6 rules** we have now, both 
 
 ## What I Found
 
-Five sign-ins to open, in this order.
+The review identified five sign-in events I would escalate first, ranked by risk:
 
 | Severity | Account | Risk |
 | --- | --- | --- |
